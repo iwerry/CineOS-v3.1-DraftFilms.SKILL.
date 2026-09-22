@@ -2,7 +2,8 @@
 
 # 🎬 Cinema OS v3.1 — DraftFilms.SKILL
 
-### Da ideia ao clipe publicado: pré-produção → produção → pós → distribuição → análise
+### Transformando o seus prompts simples em vídeos cinematograficos 
+### Pode se usar em todas as etapas pré-produção → produção → pós → distribuição → análise
 
 **Um engine de produção audiovisual com IA que troca adjetivo vazio por parâmetro óptico real** — FOV em graus, Kelvin, obturador 180°, T-stop — em vez de `ultra real, 8k, masterpiece`.
 
