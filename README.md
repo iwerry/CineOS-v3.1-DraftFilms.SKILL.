@@ -9,7 +9,7 @@
 
 `43 skills` · `47 estilos Visual DNA` · `17 pipelines` · `16 perfis` · `23 motores` · `21 rotas de tarefa` · `9 gates de qualidade`
 
-*por **Daniel Rodrigues** — Terminal AI · Draft Creative Studio Ltd*
+*por **Daniel Rodrigues**  · Draft Creative Studio Ltd*
 
 </div>
 
@@ -222,8 +222,8 @@ Requisito: `tsconfig` com `"resolveJsonModule": true` (Vite/Next já trazem).
 
 ## 👤 Autor
 
-**Daniel Rodrigues** — Terminal AI · Draft Creative Studio Ltd
-*Cinema OS v3.1.0 · Visual DNA Pack v3.0 · com G9 Modo Marca*
+**Daniel Rodrigues** · Draft Creative Studio Ltd
+*Cinema OS v3.1.0 ·  com G9 Modo Marca*
 
 Ideia, arquitetura e conteúdo criativo: todos os direitos do autor. Contribuições e relatos de bug são bem-vindos pelas *Issues*.
 
